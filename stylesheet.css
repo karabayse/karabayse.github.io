@@ -1,0 +1,42 @@
+body {
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#contact-info {
+	text-align: center;
+	margin-bottom: 40px;
+	
+}
+
+h1 {
+	font-size: 30px;
+	margin-bottom: -20px;
+	color: Crimson;
+	text-transform: uppercase;
+}
+
+h2 {
+	margin-bottom: -20px;
+	font-size: 20px;
+}
+
+#professional-summary {
+	
+}
+
+h3 {
+	color: Crimson;
+	border-bottom-style: solid;
+	border-color: #D3D3D3;
+	
+}
+
+h4 {
+	color: Crimson;
+	margin-bottom: -20px;
+}
+
+#employer-specific-info {
+	margin-bottom:  30px;
+}
